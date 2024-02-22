@@ -1,3 +1,9 @@
+import java.util.*;
+
 public class helloWorld {
-    System.out.println("Hello World");
+    public static void main(String[] args) {
+        System.out.println("Hello world.");
+        System.out.println("Fixed missing lines.");
+    }
+
 }
