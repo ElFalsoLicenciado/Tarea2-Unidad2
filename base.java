@@ -1,5 +1,7 @@
 public class base {
     public static void main(String[] args) {
-        System.out.println("Privyet, kak dyela?.");
+        String greet = "Hi mom";
+
+        System.out.println(greet);
     }
 }
