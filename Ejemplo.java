@@ -1,5 +1,6 @@
+import java.util.*;
 public class Ejemplo {
-    import java.util.*;
+    
     public static void main(String[] args) {
         Random x =new Random();
         
@@ -9,5 +10,7 @@ public class Ejemplo {
 
         System.out.println(greet);
         System.out.println(n);
+
+        persona p1 = new persona("Juan", 29);
     }
 }
